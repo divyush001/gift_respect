@@ -1,0 +1,64 @@
+
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "username": "alicej",
+      "email": "alice.johnson@example.com",
+      "address": {
+        "street": "123 Maple St",
+        "city": "Springfield",
+        "zipcode": "12345"
+      },
+      "phone": "555-1234"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "username": "bobsmith",
+      "email": "bob.smith@example.com",
+      "address": {
+        "street": "456 Oak Ave",
+        "city": "Greenville",
+        "zipcode": "67890"
+      },
+      "phone": "555-5678"
+    },
+    {
+      "id": 3,
+      "name": "Carol Lee",
+      "username": "carollee",
+      "email": "carol.lee@example.com",
+      "address": {
+        "street": "789 Pine Rd",
+        "city": "Lakeside",
+        "zipcode": "24680"
+      },
+      "phone": "555-2468"
+    },
+    {
+      "id": 4,
+      "name": "David Kim",
+      "username": "davidk",
+      "email": "david.kim@example.com",
+      "address": {
+        "street": "321 Birch Blvd",
+        "city": "Hilltown",
+        "zipcode": "13579"
+      },
+      "phone": "555-1357"
+    },
+    {
+      "id": 5,
+      "name": "Eva Martinez",
+      "username": "evam",
+      "email": "eva.martinez@example.com",
+      "address": {
+        "street": "654 Cedar Ln",
+        "city": "Rivercity",
+        "zipcode": "97531"
+      },
+      "phone": "555-9753"
+    }
+  ]
+  

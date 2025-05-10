@@ -1,0 +1,22 @@
+name: gift_respect
+description: " A new app called Gift respect that shall reduce the thinking gap between men and women as far as menstration is concerned"
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/test/users.json
