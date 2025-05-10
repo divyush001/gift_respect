@@ -1,3 +1,2 @@
 # gift_respect
-
-A new Flutter project.
+A new Flutter app.
